@@ -2,21 +2,14 @@
   "name": "one-health",
   "version": "1.0.0",
   "description": "",
-  "main": "html/index.html",
+  "main": "index.html",
   "scripts": {
-    "start": "node html/index.html"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AhmadAlmuhammad/internationalrelieffund.git"
+    "type": "git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AhmadAlmuhammad/internationalrelieffund/issues"
-  },
-  "homepage": "https://github.com/AhmadAlmuhammad/internationalrelieffund#readme",
-  "dependencies": {
-    "bootstrap": "^5.1.3"
-  }
+  "homepage": "https://github.com/AhmadAlmuhammad/international-relieffund#readme"
 }
